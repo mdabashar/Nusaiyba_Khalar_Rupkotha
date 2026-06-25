@@ -1,5 +1,5 @@
 ## Read Online
-https://your-github-username.github.io/Nusaiyba_Khalar_Rupkotha
+https://mdabashar.github.io/Nusaiyba_Khalar_Rupkotha/
 
 You can read both versions of the book online through the GitHub Pages website:
 
