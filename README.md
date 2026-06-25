@@ -1,3 +1,14 @@
+## Read Online
+https://your-github-username.github.io/Nusaiyba_Khalar_Rupkotha
+
+You can read both versions of the book online through the GitHub Pages website:
+
+- Bangla Edition
+- English Edition
+
+The PDF files are also available in the `pdfs/` folder for download.
+
+
 # Nusaiyba Khalar Rupkotha
 
 This repository contains the published PDF versions of ***Nusaiyba Khalar Rupkotha***, a collection of imaginative fairy-tale style stories.
