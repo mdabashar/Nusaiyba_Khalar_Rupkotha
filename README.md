@@ -14,8 +14,6 @@ Two versions of the book are included:
 | Bangla Edition  | `nusaiyba_khalar_rupkotha_bangla.pdf`  |
 | English Edition | `nusaiyba_khalar_rupkotha_english.pdf` |
 
-> Please update the filenames above if your uploaded PDF filenames are different.
-
 ## About the Book
 
 ***Nusaiyba Khalar Rupkotha*** is a storybook inspired by the magical atmosphere of traditional fairy tales and classic storytelling traditions. The stories are written for readers who enjoy wonder, adventure, imagination, and moral reflection.
