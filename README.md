@@ -22,8 +22,8 @@ Two versions of the book are included:
 
 | Version         | File                                   |
 | --------------- | -------------------------------------- |
-| Bangla Edition  | `nusaiyba_khalar_rupkotha_bangla.pdf`  |
-| English Edition | `nusaiyba_khalar_rupkotha_english.pdf` |
+| Bangla Edition  | `pdfs/nusaiyba_khalar_rupkotha_bangla.pdf`  |
+| English Edition | `pdfs/nusaiyba_khalar_rupkotha_english.pdf` |
 
 ## About the Book
 
